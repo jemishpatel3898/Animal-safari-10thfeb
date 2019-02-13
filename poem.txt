@@ -3,7 +3,7 @@ tiger
 elephant
 deer
 peacock
-make a zoo
+adding zoo
 fox
 snakes
 aquatic animals can be added
